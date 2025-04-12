@@ -13,6 +13,11 @@ Cleaned a raw dataset by handling missing values, duplicates, formatting issues,
 - Converted date columns to dd-mm-yyyy
 - Renamed column headers for clarity
 - Ensured correct data types for all fields
+## Files Included
+
+- `task1_cleaned_dataset.xlsx`: The cleaned Excel dataset
+-  Some screenshots of the tasks
+- `README.md`: Documentation of the cleaning process
 
 ## Result
 The cleaned dataset is now ready for further analysis or visualization.
