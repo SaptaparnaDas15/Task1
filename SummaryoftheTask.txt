@@ -1,0 +1,8 @@
+Summary of changes-
+
+1.Handled missing values using Find & Select option and deleted the blank rows
+2.Removed duplicate entries
+3.Standardized inconsistent gender and country names
+4.Converted date columns to dd-mm-yyyy
+5.Renamed column headers for clarity
+6.Ensured correct data types for all fields
